@@ -2,6 +2,23 @@
 
 Welcome to the Skincare Project! This is a React-based web application aimed at showcasing various frontend skill. The project utilizes styled-components for styling and react-router for navigation between different pages.
 
+## Navigation
+
+To navigate through the website, follow these steps:
+
+1. **Homepage**: Visit the homepage of the website by navigating to `/homepage`.
+
+2. **My Component**: Explore the MyComponent page by navigating to `/mycomponent`.
+
+3. **Edit Invoice**: Access the EditInvoice page by navigating to `/editinvoice`.
+
+4. **Payment**: Proceed to the Payment page by navigating to `/payment`.
+
+5. **Payment Form**: Fill out the PaymentForm by navigating to `/paymentform`.
+
+6. **Templates**: Explore various templates on the Templates page by navigating to `/templates`.
+
+
 ## Website Glimpse
 ***Templete***
 ![Description](screenshot/Template.png)

@@ -2,9 +2,19 @@
 
 Welcome to the Skincare Project! This is a React-based web application aimed at showcasing various frontend skill. The project utilizes styled-components for styling and react-router for navigation between different pages.
 
-## Screenshots
+## Website Glimpse
 
 ![Description](screenshot/Template.png)
+---
+![Description](screenshot/createInvoice.png)
+---
+![Description](screenshot/editInvoice.png)
+---
+![Description](screenshot/InvoiceList.png)
+---
+![Description](screenshot/Payment.png)
+---
+![Description](screenshot/PaymentForm.png)
 
 
 ## Features
